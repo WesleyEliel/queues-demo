@@ -4,7 +4,7 @@
 This project is about an illustration of how queue Data Structure works
 
 The topic is simple: 
-For each type of queue that exists [ lol: ( That I know i mean ) ] I will implement it and 
+For each type of queue that exists [ lol: ( That I know I mean ) ],  I will implement it and 
 try to make visual demo of it.
 
 So on the main page of this app, the user will have to select the type of Queue he wants to
